@@ -5,4 +5,5 @@ nota1 = prompt("digite aqui a primeira nota");
  
  var resultado = (nota1+nota2+nota3)/3;
  alert(resultado)
+
  

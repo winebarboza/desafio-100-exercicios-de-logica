@@ -8,4 +8,5 @@ let a, b, c
  
  resultado = (a+ b + c)/3
  alert(resultado)
+
  
